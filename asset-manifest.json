@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/repository-name/static/css/main.db04fd9d.chunk.css",
+    "main.js": "/repository-name/static/js/main.46906f02.chunk.js",
+    "main.js.map": "/repository-name/static/js/main.46906f02.chunk.js.map",
+    "runtime-main.js": "/repository-name/static/js/runtime-main.e9853e6b.js",
+    "runtime-main.js.map": "/repository-name/static/js/runtime-main.e9853e6b.js.map",
+    "static/js/2.b9832ab7.chunk.js": "/repository-name/static/js/2.b9832ab7.chunk.js",
+    "static/js/2.b9832ab7.chunk.js.map": "/repository-name/static/js/2.b9832ab7.chunk.js.map",
+    "index.html": "/repository-name/index.html",
+    "precache-manifest.e1e312916e7dbffc6e1c4e8dc740c6de.js": "/repository-name/precache-manifest.e1e312916e7dbffc6e1c4e8dc740c6de.js",
+    "service-worker.js": "/repository-name/service-worker.js",
+    "static/css/main.db04fd9d.chunk.css.map": "/repository-name/static/css/main.db04fd9d.chunk.css.map",
+    "static/js/2.b9832ab7.chunk.js.LICENSE.txt": "/repository-name/static/js/2.b9832ab7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/repository-name/static/media/vhs.d76b4ffc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9853e6b.js",
+    "static/js/2.b9832ab7.chunk.js",
+    "static/css/main.db04fd9d.chunk.css",
+    "static/js/main.46906f02.chunk.js"
+  ]
+}
