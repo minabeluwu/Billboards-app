@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.db04fd9d.chunk.css",
-    "main.js": "/repository-name/static/js/main.46906f02.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.46906f02.chunk.js.map",
-    "runtime-main.js": "/repository-name/static/js/runtime-main.e9853e6b.js",
-    "runtime-main.js.map": "/repository-name/static/js/runtime-main.e9853e6b.js.map",
-    "static/js/2.b9832ab7.chunk.js": "/repository-name/static/js/2.b9832ab7.chunk.js",
-    "static/js/2.b9832ab7.chunk.js.map": "/repository-name/static/js/2.b9832ab7.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.e1e312916e7dbffc6e1c4e8dc740c6de.js": "/repository-name/precache-manifest.e1e312916e7dbffc6e1c4e8dc740c6de.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/main.db04fd9d.chunk.css.map": "/repository-name/static/css/main.db04fd9d.chunk.css.map",
-    "static/js/2.b9832ab7.chunk.js.LICENSE.txt": "/repository-name/static/js/2.b9832ab7.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/repository-name/static/media/vhs.d76b4ffc.jpg"
+    "main.css": "/Billboards-app/static/css/main.8b758344.chunk.css",
+    "main.js": "/Billboards-app/static/js/main.aa8ff722.chunk.js",
+    "main.js.map": "/Billboards-app/static/js/main.aa8ff722.chunk.js.map",
+    "runtime-main.js": "/Billboards-app/static/js/runtime-main.bcc91e4f.js",
+    "runtime-main.js.map": "/Billboards-app/static/js/runtime-main.bcc91e4f.js.map",
+    "static/js/2.b9832ab7.chunk.js": "/Billboards-app/static/js/2.b9832ab7.chunk.js",
+    "static/js/2.b9832ab7.chunk.js.map": "/Billboards-app/static/js/2.b9832ab7.chunk.js.map",
+    "index.html": "/Billboards-app/index.html",
+    "precache-manifest.b2524e0a4fbfcc6b768e2447155175cd.js": "/Billboards-app/precache-manifest.b2524e0a4fbfcc6b768e2447155175cd.js",
+    "service-worker.js": "/Billboards-app/service-worker.js",
+    "static/css/main.8b758344.chunk.css.map": "/Billboards-app/static/css/main.8b758344.chunk.css.map",
+    "static/js/2.b9832ab7.chunk.js.LICENSE.txt": "/Billboards-app/static/js/2.b9832ab7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Billboards-app/static/media/vhs.d76b4ffc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9853e6b.js",
+    "static/js/runtime-main.bcc91e4f.js",
     "static/js/2.b9832ab7.chunk.js",
-    "static/css/main.db04fd9d.chunk.css",
-    "static/js/main.46906f02.chunk.js"
+    "static/css/main.8b758344.chunk.css",
+    "static/js/main.aa8ff722.chunk.js"
   ]
 }
